@@ -1,2 +1,2 @@
-# Collision-Algorithm
-An algorithm that checks collisions between two sprites in javascript.
+# p5.play-boilerplate
+Boiler plate for p5.play
